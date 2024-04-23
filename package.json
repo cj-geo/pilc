@@ -1,0 +1,19 @@
+{
+  "name": "pilc",
+  "version": "1.0.0",
+  "description": "one of the best way to help you clip tiff image with geoJSON",
+  "main": "./src/index.js",
+  "homepage": "https://github.com/cj-geo/pilc",
+  "keywords": [
+    "leftlet",
+    "clip",
+    "geoJSON",
+    "tiff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cj-geo/pilc.git"
+  },
+  "author": "Little-Guo <theoldhunteredition@gmail.com>",
+  "license": "MIT"
+}
